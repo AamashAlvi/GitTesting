@@ -1,6 +1,7 @@
  ## Todo App
 
- This project contains a simple TODO application
+ hi my name is aamash alvi and i am a full-stack developer
+ this project contains a simple TODO application
 
  It has the following features -
 
