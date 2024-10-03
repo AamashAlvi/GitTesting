@@ -1,5 +1,8 @@
  ## Todo App
 
+ ## AAMASH ALVI 
+ ## FULL-STACK DEVELOPER
+
  hi my name is aamash alvi and i am a full-stack developer
  this project contains a simple TODO application
 
